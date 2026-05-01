@@ -1,0 +1,22 @@
+{
+  "overview": "Elite personal portfolio for Bomalleeni Rajesh Kumar — a hacker terminal meets neon developer aesthetic with an interactive command-line system, animated sections, and a striking visual identity.",
+  "features": [
+    "Interactive terminal with command history and navigation",
+    "Canvas particle background with scanline overlay",
+    "12 animated sections (hero, about, skills, projects, contact, and more)",
+    "Neon cyan + green design system with JetBrains Mono typography",
+    "Click-to-copy contact cards, resume download, count-up stats",
+    "Fully responsive mobile-first design"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "terminal",
+    "neon",
+    "hacker",
+    "react",
+    "framer-motion",
+    "interactive"
+  ],
+  "last_updated": "2026-05-01T13:38:42.488Z"
+}
